@@ -9,22 +9,17 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Arts in Econmics
+    - title: Bachelor of Arts in Economics
       institution: University of St. Gallen, Switzerland
       year: 2019-2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Focus on 
+
     - title: Additional Dimplom in Data Science
       institution: University of St. Gallen, Switzerland
       year: 2020-2021
       description:
-        - Description 1.
-        - Description 2.
+
 
 - title: Experience
   type: time_table
@@ -64,25 +59,15 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Monetary Economics.
+    - title: Monetary Economics
       items:
         - Description 1.
         - Description 2.
-    - title: Macroeconomics.
+    - title: Macroeconomics
       items:
         - Description 1.
         - Description 2.
@@ -90,4 +75,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Badminton, Volleyball, Swimming, Hiking
+    - <u>Hobbies:</u> Badminton, Volleyball, Swimming, Hiking.
